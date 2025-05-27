@@ -24,9 +24,7 @@ This is a fun beginner-friendly Python project using the turtle graphics library
 
     Basic object-oriented programming (Turtle objects)
 
-📷 Screenshot
 
-(Optional: Include a screenshot of the game in action)
 🛠 How to Run
 
     Make sure Python is installed (preferably 3.8 or higher).
